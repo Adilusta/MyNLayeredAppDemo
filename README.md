@@ -1,2 +1,2 @@
 # MyNLayeredAppDemo
-IoC container a kadar olan kodlar bunlar.
+Engin Demiroğ hocamızın sunduğu btk akademi c# kursunda katmanlı mimari öğrenmek için bu şekilde bir uygulama yaptık.
